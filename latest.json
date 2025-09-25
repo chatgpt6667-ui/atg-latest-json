@@ -1,0 +1,33 @@
+{
+  "generated_at": "2025-09-25T10:00:00Z",
+  "rooms": [
+    {
+      "room_id": "A101",
+      "label_90_99": true,
+      "unopened_under10": true,
+      "distance_spins": 180,
+      "recent_free_spin_hint": false,
+      "just_bigwin": false,
+      "recent_small_sprays": false
+    },
+    {
+      "room_id": "B207",
+      "label_90_99": false,
+      "unopened_under10": true,
+      "distance_spins": 210,
+      "recent_free_spin_hint": true,
+      "just_bigwin": false,
+      "recent_small_sprays": true
+    },
+    {
+      "room_id": "C309",
+      "label_90_99": true,
+      "unopened_under10": false,
+      "distance_spins": 95,
+      "recent_free_spin_hint": true,
+      "just_bigwin": false,
+      "recent_small_sprays": false
+    },
+    {
+      "room_id": "D412",
+      "label
